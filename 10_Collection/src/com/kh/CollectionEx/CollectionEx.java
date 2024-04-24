@@ -40,7 +40,7 @@ public class CollectionEx {
 		// ArrayList에서 add로 하나씩 추가하는 것이 아니라
 		//한번에 값을 추가하기
 		//											()에 Arrays.asList()넣고싶은만큼추가가능
-		ArrayList<String> colors = new ArrayList<>( Arrays.asList("black","white") );
+		ArrayList<String> colors = new ArrayList<>( Arrays.asList("black","white") );//생성자?
 		System.out.println(colors);
 	}
 
