@@ -10,6 +10,7 @@ TreeMap 이진검색트리 데이터 검색 삽입 삭제 연산을 빠르게 �
 메서드
 put(key, value)		: TreeMap에 키-벨류 추가
 get(key)			: 저장된 키에 있는 벨류 전달
+-메서드로 value를 통해서 key찾기는불가능한가? 
 containsKey(key)	: 키가 포함돼있는지 확인
 containsValue(value): 벨류가 포함돼있는지 확인
 remove(key)			: 지정된 키와 값을 삭제
